@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Répertoire Fictif</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 2em; background: #f9f9f9; }
+    h1 { color: #333; }
+    ul { list-style: none; padding: 0; }
+    li { margin-bottom: 0.5em; }
+    .entry { background: #fff; padding: 1em; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+  </style>
+</head>
+<body>
+  <h1>Répertoire Fictif</h1>
+  <ul>
+    <li class="entry"><strong>Claire Dubois</strong> – claire.dubois@email.com</li>
+    <li class="entry"><strong>Léo Marchand</strong> – leo.marchand@email.com</li>
+    <li class="entry"><strong>Inès Lefèvre</strong> – ines.lefevre@email.com</li>
+    <li class="entry"><strong>Thomas Garnier</strong> – thomas.garnier@email.com</li>
+    <li class="entry"><strong>Julie Caron</strong> – julie.caron@email.com</li>
+  </ul>
+</body>
+</html>
+ 
